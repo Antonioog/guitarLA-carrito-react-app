@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://reactjs.com/" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAQpRGdeO5T8YvpJqwhRO0lknqoNefOrF1yw&s" width="200" alt="Nest Logo" /></a>
+  <a href="https://reactjs.com/" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAQpRGdeO5T8YvpJqwhRO0lknqoNefOrF1yw&s" width="150" alt="Nest Logo" /></a>
 </p>
 
 #Citas Veterinario.
