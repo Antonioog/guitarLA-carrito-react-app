@@ -6,9 +6,9 @@ export default function Guitar() {
                 <img className="img-fluid" src="./public/img/guitarra_01.jpg" alt="imagen guitarra" />
             </div>
             <div className="col-8">
-                <h3 className="text-black fs-4 fw-bold text-uppercase">Lukather</h3>
+                <h3 className="text-black fs-4 fw-bold text-uppercase">Luke</h3>
                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit quae labore odit magnam in autem nesciunt, amet deserunt</p>
-                <p className="fw-black text-primary fs-3">$299</p>
+                <p className="fw-black text-primary fs-3">$199.00</p>
                 <button
                     type="button"
                     className="btn btn-dark w-100"
